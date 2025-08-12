@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm NRUP PATHAK
 **A passionate Cloud Engineer || DevOps Engineer || Admin from India**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **nruppathak@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** WEB developement projects.
 - 🌱 **I’m currently learning:** HTML,CSS,Javascript
