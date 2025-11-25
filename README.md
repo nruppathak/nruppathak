@@ -20,6 +20,8 @@ Email Me 👉 ✉️ **nruppathak@gmail.com** For Collaboration/Project or Anyth
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+![Visitors](https://komarev.com/ghpvc/?username=nrup-pathak&style=for-the-badge&color=0ebeff)
+
 
 
 
