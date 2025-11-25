@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **nruppathak@gmail.com** For Collaboration/Project or Anyth
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** nruppathak@gmail.com
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me                              <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"           width="300">
 
 
 
