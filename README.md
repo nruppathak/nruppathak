@@ -9,6 +9,8 @@ Email Me 👉 ✉️ **nruppathak@gmail.com** For Collaboration/Project or Anyth
 - 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** nruppathak@gmail.com
+-    Linkedln:https://www.linkedin.com/in/nrup-pathak-b3b566338/             
+- 
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me                              <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"           width="300">
 
